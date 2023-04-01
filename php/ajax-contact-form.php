@@ -6,7 +6,7 @@ class Ajax_Contact_Form {
      *
      * @var string
      */
-    protected $address_destination = 'email@example.com';
+    protected $address_destination = 'laurent.yves2@gmail.com';
 
     /**
      * Message subject
